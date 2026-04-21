@@ -60,7 +60,7 @@ All modules follow these security principles:
 ```hcl
 tags = {
   Project     = "project-name"
-  Environment = "production"   # production / staging / dev
+  Environment = "production"   # production / staging / dev 
   ManagedBy   = "terraform"
   Owner       = "devops-team"
   CostCenter  = "engineering"
